@@ -1,0 +1,10 @@
+C:\Users\Flywheel\Documents\sistema-pagos-fullstack-master\sistema-pagos-backend\src\main\java\com\lta\sistemapagos\dtos\NewPagoDto.java
+C:\Users\Flywheel\Documents\sistema-pagos-fullstack-master\sistema-pagos-backend\src\main\java\com\lta\sistemapagos\entities\Estudiante.java
+C:\Users\Flywheel\Documents\sistema-pagos-fullstack-master\sistema-pagos-backend\src\main\java\com\lta\sistemapagos\entities\Pago.java
+C:\Users\Flywheel\Documents\sistema-pagos-fullstack-master\sistema-pagos-backend\src\main\java\com\lta\sistemapagos\enums\PagoStatus.java
+C:\Users\Flywheel\Documents\sistema-pagos-fullstack-master\sistema-pagos-backend\src\main\java\com\lta\sistemapagos\enums\TypePago.java
+C:\Users\Flywheel\Documents\sistema-pagos-fullstack-master\sistema-pagos-backend\src\main\java\com\lta\sistemapagos\repository\EstudianteRepository.java
+C:\Users\Flywheel\Documents\sistema-pagos-fullstack-master\sistema-pagos-backend\src\main\java\com\lta\sistemapagos\repository\PagoRepository.java
+C:\Users\Flywheel\Documents\sistema-pagos-fullstack-master\sistema-pagos-backend\src\main\java\com\lta\sistemapagos\services\PagoService.java
+C:\Users\Flywheel\Documents\sistema-pagos-fullstack-master\sistema-pagos-backend\src\main\java\com\lta\sistemapagos\SistemaPagosBackendApplication.java
+C:\Users\Flywheel\Documents\sistema-pagos-fullstack-master\sistema-pagos-backend\src\main\java\com\lta\sistemapagos\web\PagoController.java
